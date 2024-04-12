@@ -26,4 +26,8 @@ public class Alumno {
     public int devolverAnios(){
         return edad;
     }
+
+    public int devolverNota(){
+        return nota;
+    }
 }
