@@ -22,4 +22,8 @@ public class Alumno {
     public void setNota(int nota) {
         this.nota = nota;
     }
+
+    public int devolverAnios(){
+        return edad;
+    }
 }
